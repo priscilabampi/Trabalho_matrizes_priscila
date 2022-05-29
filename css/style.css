@@ -1,0 +1,23 @@
+body { 
+    background:linear-gradient(to left, rgb(163, 207, 233), rgb(212, 149, 231));
+    color: rgb(0, 0, 0);
+    font: 110% sans-serif;
+  }
+  
+  h1 {
+    margin: 0;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+  }
+  
+  h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color:blue;
+  }
+  
+  table {
+margin-left: auto;
+margin-right: auto;
+  }
